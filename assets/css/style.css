@@ -1,0 +1,35 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    background-color: #E83E8C;
+}
+
+.navbar-brand img {
+    width: 135px;
+}
+
+.navbar-collapse {
+    background: #E83E8C;
+}
+
+.navbar-nav a {
+    color: #FFFFFF;
+}
+
+.container h1 {
+    color: #707070;
+}
+
+.icons-section {
+    color: white;
+}
+
+footer {
+    background-color: #E83E8C;
+}
+
+.footerS img {
+    width: 53px;
+}
